@@ -1,0 +1,28 @@
+name: QTO
+favicon: null
+layout_spectrum: 0.4625151678919792
+typography_spectrum: 0.4785583394113928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6026262603700161
+  lightness: 0.7238385598175228
+  saturation: 0.7351086884737015
+  rhythmicContrast: 0.8197477534413338
+purpose: []
